@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Leandro Chaves
+- 👀 "I am actively seeking opportunities to secure a position in the field of programming and contribute with my expertise."
+- 🌱 I’m currently learning JavaScript, Python. HTML, CSS. 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me leandrochaavess@gmail.com

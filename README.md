@@ -1,6 +1,5 @@
 ## Bem-vindo(a) ao perfil do Leandro 😁
-<img height="100em"  ## Projeto https://leandrochss.github.io/projeto-one-piece/
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
  <div>
    <a href="https://github.com/leandrochss">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

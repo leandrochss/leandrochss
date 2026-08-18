@@ -20,9 +20,9 @@ Construo sistemas e resolvo o que trava, quebra ou não conecta  do código à i
 Como **desenvolvedor**, construo sites e sistemas do zero. Como **técnico e suporte de TI**, resolvo
 o que trava, quebra ou não conecta — de uma máquina lenta a uma rede inteira fora do ar.
 
--  **Desenvolvimento** — sites, sistemas web e automações sob medida
--  **Suporte de TI** — atendimento a usuários, help desk, suporte remoto e presencial
--  **Técnico de TI** — manutenção de hardware, redes e configuração de equipamentos
+-  **Desenvolvimento**  sites, sistemas web e automações sob medida
+-  **Suporte de TI**  atendimento a usuários, help desk, suporte remoto e presencial
+-  **Técnico de TI**  manutenção de hardware, redes e configuração de equipamentos
 
 ### Projeto em destaque
 

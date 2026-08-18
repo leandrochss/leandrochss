@@ -26,7 +26,7 @@ o que trava, quebra ou não conecta — de uma máquina lenta a uma rede inteira
 
 ### Projeto em destaque
 
-**[KivonIA](https://kivonia.com)** — sistema de assistente de inteligência artificial para empresas,
+**[KivonIA](https://kivonia.com)** sistema de assistente de inteligência artificial para empresas,
 criado por mim, com atendimento automatizado e respostas inteligentes para negócios.
 
 ### Stack & ferramentas

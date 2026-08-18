@@ -4,7 +4,7 @@
 
 ### Desenvolvedor · Suporte de TI · Técnico de TI
 
-Construo sistemas e resolvo o que trava, quebra ou não conecta — do código à infraestrutura.
+Construo sistemas e resolvo o que trava, quebra ou não conecta  do código à infraestrutura.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-leandrochss.github.io-ff8a2b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leandrochss.github.io/portfolio/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-(61)_99958--1083-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561999581083)
@@ -20,9 +20,9 @@ Construo sistemas e resolvo o que trava, quebra ou não conecta — do código �
 Como **desenvolvedor**, construo sites e sistemas do zero. Como **técnico e suporte de TI**, resolvo
 o que trava, quebra ou não conecta — de uma máquina lenta a uma rede inteira fora do ar.
 
-- 💻 **Desenvolvimento** — sites, sistemas web e automações sob medida
-- 🎧 **Suporte de TI** — atendimento a usuários, help desk, suporte remoto e presencial
-- 🔧 **Técnico de TI** — manutenção de hardware, redes e configuração de equipamentos
+-  **Desenvolvimento** — sites, sistemas web e automações sob medida
+-  **Suporte de TI** — atendimento a usuários, help desk, suporte remoto e presencial
+-  **Técnico de TI** — manutenção de hardware, redes e configuração de equipamentos
 
 ### Projeto em destaque
 

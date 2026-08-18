@@ -18,7 +18,7 @@ Construo sistemas e resolvo o que trava, quebra ou não conecta do código à in
 
 25 anos, transitando bem entre dois mundos que nem sempre andam juntos: o código e o hardware.
 Como **desenvolvedor**, construo sites e sistemas do zero. Como **técnico e suporte de TI**, resolvo
-o que trava, quebra ou não conecta — de uma máquina lenta a uma rede inteira fora do ar.
+o que trava, quebra ou não conecta  de uma máquina lenta a uma rede inteira fora do ar.
 
 -  **Desenvolvimento**  sites, sistemas web e automações sob medida
 -  **Suporte de TI**  atendimento a usuários, help desk, suporte remoto e presencial

@@ -40,10 +40,6 @@ criado por mim, com atendimento automatizado e respostas inteligentes para negó
 ![Redes](https://img.shields.io/badge/Redes%20%26%20Hardware-333333?style=flat-square&logo=cisco&logoColor=white)
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=leandrochss&show_icons=true&hide_title=true&count_private=true&theme=default&hide_border=true" />
-</div>
-
-<div align="center">
 
 📍 Disponível para chamados via WhatsApp · [Fale comigo](https://wa.me/5561999581083)
 
